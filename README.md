@@ -6,3 +6,4 @@
 # 01-harjoitus
 =======
 >>>>>>> parent of 3a8a481 (first commit)
+# 01-harjoitus
